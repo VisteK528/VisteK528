@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Control Engineering and Robotics student at Faculty of Electronics and Information Technology, Warsaw University of Technology.<br><br>Interesed in:<br>-> Robotics<br>-> Embedded systems<br>-> Machine Learning <br>-> Speech processing and recognition<br><br>Currently focused on development of Elkapod walking robot as member of the Bionik Students Robotics Interest Club.<br>All code and files created by me and my friends can be found here: https://github.com/HexapodBionik
+I am Control Engineering and Robotics student at Faculty of Electronics and Information Technology, Warsaw University of Technology.<br><br>Interesed in:<br>- Robotics<br>- Embedded systems<br>- Machine Learning <br>- Speech processing and recognition<br><br>Currently focused on development of Elkapod walking robot as member of the Bionik Students Robotics Interest Club.<br>All code and files created by me and my friends can be found here: https://github.com/HexapodBionik
 
 
 # 💻 Tech Stack:
